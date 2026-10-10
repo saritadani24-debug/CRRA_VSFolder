@@ -19,9 +19,11 @@ A contract whose notice deadline falls within the next 30 days is approaching it
 
 ## Inside the notice window
 
-A contract is inside its notice window once today's date is past the point where a full review can be completed before the notice deadline, but the deadline itself has not yet passed.
+## Inside the notice window
 
-Contracts inside the notice window must be escalated to a named human approver regardless of value band, because negotiating leverage is reduced and the consequences of an incorrect decision are materially higher. Where the decision is to renegotiate or terminate, written notice must be served to the vendor within five business days of the decision.
+A contract is inside its notice window when its notice deadline has passed but its renewal date has not yet arrived. Negotiating leverage is lost at this point: if the contract auto-renews, it will renew on the vendor's terms, and the organisation can no longer credibly threaten to exit at the end of the term.
+
+Contracts inside the notice window must be escalated to a named human approver regardless of value band, because the consequences of an incorrect decision are materially higher. Any remaining options, such as a negotiated concession from the vendor or an early termination under the termination procedure, must be decided and acted on before the renewal date.
 
 ## Missed notice deadlines
 

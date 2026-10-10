@@ -12,3 +12,5 @@ data/chroma_db/
 # Python
 __pycache__/
 *.pyc
+# Audit trail output (Lab C4)
+logs/*.jsonl
