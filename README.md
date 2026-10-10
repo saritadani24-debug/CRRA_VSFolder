@@ -4,9 +4,9 @@ Zensar BizOps AI Capstone. Built across four labs (C1-C4).
 
 ## Status
 - [x] C1 - Policy knowledge base (`data/kb/`, `data/kb_setup.py`)
-- [ ] C2 - Mock contract API
-- [ ] C3 - Renewal analysis agent
-- [ ] C4 - Orchestration, HITL and audit
+- [x] C2 - Mock contract API (`mcp_server/contract_shim.py`)
+- [x] C3 - Renewal analysis agent (`agents/renewal_agent.py`)
+- [x] C4 - Orchestration, HITL and audit (`orchestrator/supervisor.py`, `guardrails/audit_logger.py`)
 
 ## Setup (Windows)
 ```
