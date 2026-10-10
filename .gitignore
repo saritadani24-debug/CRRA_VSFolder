@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Virtual environment
+labenv/
+venv/
+.venv/
+
+# Generated vector store (rebuilt by data/kb_setup.py)
+data/chroma_db/
+
+# Python
+__pycache__/
+*.pyc

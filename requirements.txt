@@ -1,0 +1,10 @@
+# Lab C1 - policy knowledge base
+chromadb>=0.5.0
+
+# Later labs (C2-C4) - installed now so the environment is set up once
+flask>=3.0
+requests>=2.31
+anthropic>=0.40
+langgraph>=0.2
+python-dotenv>=1.0
+pandas>=2.0
